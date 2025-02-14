@@ -1,9 +1,10 @@
 name: Fast UP
 description: Your reliable partner in the betting market with a jetton secured by smart contracts on the TON network!
-address: 0:fa7dd071d073f5dc97dc56870f8100a32aaa4a5e1de15d23151951dee72440d5
+image: "https://postimg.cc/pmDnnLGY"
+address: EQD6fdBx0HP13JfcVocPgQCjKqpKXh3hXSMVGVHe5yRA1fb_
 symbol: FAST
 websites:
-  - "https://fastup.vercel.app/"
+  - "https://yourfastup.com/"
 social:
   - "https://t.me/yourfastup"
   - "https://t.me/fast_up_chat"
